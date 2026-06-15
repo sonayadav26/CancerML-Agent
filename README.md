@@ -82,7 +82,7 @@ CancerML-Agent/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sonayadav26/CancerML-Agent.git
+  git clone https://github.com/sonayadav26/CancerML-Agent.git
    cd CancerML-Agent
    ```
 
@@ -90,7 +90,7 @@ CancerML-Agent/
    * **Windows:**
      ```bash
      python -m venv venv
-     venv\Scripts\activate
+    venv\Scripts\activate
      ```
    * **macOS / Linux:**
      ```bash
