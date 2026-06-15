@@ -82,7 +82,7 @@ CancerML-Agent/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/CancerML-Agent.git
+   git clone https://github.com/sonayadav26/CancerML-Agent.git
    cd CancerML-Agent
    ```
 
@@ -127,5 +127,3 @@ This will start a local server (typically at `http://localhost:8501`). Open this
 
 ---
 
-## 📜 License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
